@@ -1,5 +1,9 @@
-# Tensorflow-Colab
+# Tensorflow-Colab 
 python
+#### Machine learning is a just a Geometry problem.
+      * It is combination of regression and classification
+
+
 # About Gobal Krishnan V
 ## [Click me !!!](https://engineer-ece.github.io/Home/)
 
