@@ -14,3 +14,5 @@ python
 <br> [3. Tensorflow Loading Data](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/TF2_0_Loading_Data.ipynb)
 <br> [4. Linear Classification](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/TF2_4_Linear_Classification.ipynb)
 <br> [5. Linear Regression](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/TF2_4_Linear_Regression.ipynb)
+<br> [6. ANN MNIST](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/TF2_4_ANN_MNIST.ipynb)
+<br> [7. ANN Regression](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/TF_2_4_ANN_Regression.ipynb)
