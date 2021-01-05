@@ -16,6 +16,10 @@ python
 <br> [6. ANN MNIST](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/TF2_4_ANN_MNIST.ipynb)
 <br> [7. ANN Regression](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/TF_2_4_ANN_Regression.ipynb)
 
+#### FeedForward Artifical Neural Network (ANN)
+     * CNN (Convolutional Neural Network)
+     * RNN (Recurrent Neural Network)
+
 #### Basic Pattern
      * Linear Regression = Dense
      * Binary Logistic Regression = Dense -> Sigmoid
