@@ -10,8 +10,8 @@ python
 
 
 # TensorFlow tutorials
-  1. [Quickstart for beginners]()
-  2. [Quickstart for experts]()
+  1. [Quickstart for beginners](https://colab.research.google.com/drive/1yKHQ4VFZzoL0RAnxi-3w7U_Qc3hoh2PD#scrollTo=87f-_j9pF9FT)
+  2. [Quickstart for experts](https://colab.research.google.com/drive/1n5w29O3d_4UjSzaEVYigEUjXASsBsCZD#scrollTo=ZVknXn73VP92)
 
 # BEGINNER
   1. ML basics with Keras
