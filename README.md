@@ -1,10 +1,107 @@
 # Tensorflow-Colab 
 python
+
 #### Machine learning is a just a Geometry problem.
       * It is combination of regression and classification of object (i.e data)
 
 # About Gobal Krishnan V
 ## [Click me !!!](https://engineer-ece.github.io/Home/)
+
+
+
+# TensorFlow tutorials
+  1. [Quickstart for beginners]()
+  2. [Quickstart for experts]()
+
+# BEGINNER
+  1. ML basics with Keras
+     1. [Basic Image Classification]()
+     2. [Basic Text Classsification]()
+     3. [Text classification with TF Hub]()
+     4. [Regression]()
+     5. [Overfit and underfit]()
+     6. [Save and load]()
+     7. [Tune hyperparameters with Keras Tuner]()
+  2. Load and preprocess data
+     1. [Images]()
+     2. [Text]()
+     3. [CSV]()
+     4. [Numpy]()
+     5. [pandas.DataFrame]()
+     6. [Unicode]()
+     7. [TF.text]()
+     8. [TFRecord and tf.Examples]()
+     9. [Additional formats with tf.io]()
+
+  3. Estimator
+     1. [Premade estimator]()
+     2. [Linear model]()
+     3. [Boosted trees]()
+     4. [Boosted trees model understanding]()
+     5. [Keras model to Estimator]()
+     6. [Multi-worker training with Estimator]()
+# ADVANCED
+     
+  1. Customization
+        1. [Tensors and operations]()
+        2. [Custom layers]()
+        3. [Custom training: walkthrough]()
+  
+  2. Distributed training
+        1. [Distributed training with Keras]()
+        2. [Custom training loops]()
+        3. [Multi-worker training with Keras]()
+        4. [Parameter Server Training]()
+        5. [Save and load]()
+        6. [Distributed input]()
+  3. Images
+        1. [Convolution Neural Network]()
+        2. [Image classification]()
+        3. [Transfer learning and fine-tuning]()
+        4. [Transfer learning and TF Hub]()
+        5. [Data Augmentation]()
+        6. [Image segmentation]()
+        7. [Object detection with TF Hub]()
+  4. Text
+        1. [Word embeddings]()
+        2. [Word2Vec]()
+        3. [Text classification with an RNN]()
+        4. [Classify Text with BERT]()
+        5. [Solve GLUE tasks using BERT on TPU]()
+        6. [Fine tuning BERT]()
+        ### Generation
+        1. [Text generation with an RNN]()
+        2. [Neural machine translation with attention]()
+        3. [Image captioning]()
+        4. [Transformer model for language understanding]()
+
+  5. Audio
+      1. [Simple Audio Recognition]()
+  6. Structured data
+      1. [Classify structured data with feature columns]()
+      2. [Classify structured data with preprocessing layers]()
+      3. [Classification on imbalanced data]()
+      4. [Time series forecasting]()
+      5. [Recommenders]()
+  7. Generative
+      1. [Neural style transfer]()
+      2. [DeepDream]()
+      3. [DCGAN]()
+      4. [Pix2Pix]()
+      5. [CycleGAN]()
+      6. [Adversarial FGSM]()
+      7. [Intro to Autoencoders]()
+      8. [Variational Autoencoder]()
+
+  8. Interpretability
+      1. [Integrated gradients]()
+
+  9. Reinforcement learning
+      1. [Actor-Critic method]()
+      2. [Tensorflow agents]()
+
+
+
 
 # Topic
 
