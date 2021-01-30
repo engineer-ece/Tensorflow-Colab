@@ -15,7 +15,7 @@ python
 
 # BEGINNER
   1. ML basics with Keras
-     1. [Basic Image Classification]()
+     1. [Basic Image Classification](https://colab.research.google.com/drive/1lYJKFiIMQwLwL4mVvdAulKuDddm2Izqk#scrollTo=BTuZOT9uCtkN)
      2. [Basic Text Classsification]()
      3. [Text classification with TF Hub]()
      4. [Regression]()
