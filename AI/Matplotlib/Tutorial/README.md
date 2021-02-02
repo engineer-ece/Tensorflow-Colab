@@ -281,13 +281,26 @@
       2. major_ticks, minor_ticks
       3. major_ticklabels, minor_ticklabels
       4. axislabel
-    4. Default AxisArtists
-    5. Howto
-    6. Rotation and Alignment of TickLabels
+   4. Default AxisArtists
+   5. Howto
+   6. Rotation and Alignment of TickLabels
        1. Adjusting ticklabels alignments
        2. Adjusting pad
-    7. GridHelper
-    8. FloatingAxis
-    9. Current Limitation and TODO's
+   7. GridHelper
+   8. FloatingAxis
+   9. Current Limitation and TODO's
        
    ### 3. The mplot3d Toolkit
+   1. Line plots
+   2. Scatter plots
+   3. Wireframe plots
+   4. Surface plots
+   5. Tri-Surface plots
+   6. Contour plots
+   7. Filled contour plots
+   8. Polygon plots
+   9. Bar plots
+   10. Quiver
+   11. 2D plots in 3D
+   12. Text
+   13. Subplotting
