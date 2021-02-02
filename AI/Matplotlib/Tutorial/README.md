@@ -3,6 +3,31 @@
 
 ## 1. Introduction
    ### 1. Usage Guide
+          1. A simple example
+          2. Parts of a Figure
+             1. Figure
+             2. Axes
+             3. Axis
+             4. Artist
+          3. Types of inputs to plotting functions
+          4. The object-oriented interface and the pyplot interface
+          5. Backends
+             1. What is a backend?
+             2. Selecting a backend
+             3. The builtin backend
+                1. ipympl
+                2. How do I select PyQt4 or PySide?
+             4. Using non-builtin backends
+          6. What is interactive mode?
+             1. Interactive example
+             2. Non-interactive example
+             3. Summary
+          7. Performance
+             1. Line segment simplification
+             2. Marker simplification
+             3. Splitting lines into smaller chunks
+             4. Legends
+             5. Using the fast style
    ### 2. Pyplot 
    ### 3. Sample plots
    ### 4. Image 
