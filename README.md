@@ -122,34 +122,34 @@ python
    - [ ]  5. [Multilingual question answering]()
    
 2. Additional NLP tutorials
-   - [ ]  1. BERT Experts
-   - [ ]  2. Semantic similarity
-   - [ ]  3. Text classification on Kaggle
-   - [ ]  4. Bangla article classifier
-   - [ ]  5. Explore CORD-19 text embeddings
-   - [ ]  6. Retrieval based question answering
-   - [ ]  7. Multilingual universal sentence encoder
-   - [ ]  8. Text cookbook
+   - [ ]  1. [BERT Experts]()
+   - [ ]  2. [Semantic similarity]()
+   - [ ]  3. [Text classification on Kaggle]()
+   - [ ]  4. [Bangla article classifier]()
+   - [ ]  5. [Explore CORD-19 text embeddings]()
+   - [ ]  6. [Retrieval based question answering]()
+   - [ ]  7. [Multilingual universal sentence encoder]()
+   - [ ]  8. [Text cookbook]()
 
 3. Image Tutorials
-   - [ ]  1. Image classification
-   - [ ]  2. Style transfer
-   - [ ]  3. Object detection
-   - [ ]  4. GANs for image generation
+   - [ ]  1. [Image classification]()
+   - [ ]  2. [Style transfer]()
+   - [ ]  3. [Object detection]()
+   - [ ]  4. [GANs for image generation]()
 
 4. Additional Image tutorials
-   - [ ] 1. CropNet: Cassava Disease Detection
-   - [ ] 2. Boundless GAN
-   - [ ] 3. Super resolution
+   - [ ] 1. [CropNet: Cassava Disease Detection]()
+   - [ ] 2. [Boundless GAN]()
+   - [ ] 3. [Super resolution]()
    
 5. Audio Tutorial
-   - [ ] Pitch recognition
-   - [ ] Sound classification
+   - [ ] [Pitch recognition]()
+   - [ ] [Sound classification]()
    
 6. Video Tutorial
-   - [ ] Action recognition
-   - [ ] Video interpolation
-   - [ ] Text-to-video retrieval
+   - [ ] [Action recognition]()
+   - [ ] [Video interpolation]()
+   - [ ] [Text-to-video retrieval]()
    
 # Topic
 
