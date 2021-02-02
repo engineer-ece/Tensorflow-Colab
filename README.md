@@ -114,6 +114,10 @@ python
 
 # Tensorflow HUB
 
+* Start Date : 05-04-2021
+* End Date : 29-04-2021
+* Duration : 24 Days
+
 ## 1. NLP Tutorials
    - [ ] [05-04-2021] 1. [Text classification]()
    - [ ] [06-04-2021] 2. [Classify text with BERT]()
