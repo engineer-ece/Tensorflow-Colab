@@ -80,7 +80,9 @@ python
   - [ ] [12-03-2021]  4. [Classify Text with BERT]()
   - [ ] [13-03-2021]  5. [Solve GLUE tasks using BERT on TPU]()
   - [ ] [14-03-2021]  6. [Fine tuning BERT]()
-        ### Generation
+        
+       ### Generation
+  
   - [ ] [15-03-2021]  1. [Text generation with an RNN]()
   - [ ] [16-03-2021]  2. [Neural machine translation with attention]()
   - [ ] [17-03-2021]  3. [Image captioning]()
