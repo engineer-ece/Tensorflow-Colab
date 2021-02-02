@@ -42,6 +42,30 @@
    7. [Logarithmic and other nonlinear axes]()
    
    ### 3. Sample plots
+   1. Line plot
+   2. Multiple subplots in one figure
+   3. Images
+   4. Contouring and pseudocolor
+   5. Histograms
+   6. Paths
+   7. Three-dimensional plotting
+   8. Streamplot
+   9. Ellipses
+   10. Bar charts
+   11. Pie charts
+   12. Tables
+   13. Scatter plots
+   14. GUI widgets
+   15. Filled curves
+   16. Date handling
+   17. Log plots
+   18. Polor plots
+   19. Legends
+   20. TeX-notation for text objects
+   21. Native TeX rendering
+   22. EEG GUI
+   23. XKCD-style sketch plots
+   24. Subplot example
    ### 4. Image 
    ### 5. Lifecycle of Plot
    ### 6. Customizing Matplotlib (style sheet & rcParams)
