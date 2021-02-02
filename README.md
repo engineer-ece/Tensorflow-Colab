@@ -115,41 +115,41 @@ python
 # Tensorflow HUB
 
 ## 1. NLP Tutorials
-   - [ ]  1. [Text classification]()
-   - [ ]  2. [Classify text with BERT]()
-   - [ ]  3. [BERT on TPU]()
-   - [ ]  4. [Real-time semantic search]()
-   - [ ]  5. [Multilingual question answering]()
+   - [ ] [05-04-2021] 1. [Text classification]()
+   - [ ] [06-04-2021] 2. [Classify text with BERT]()
+   - [ ] [07-04-2021] 3. [BERT on TPU]()
+   - [ ] [08-04-2021] 4. [Real-time semantic search]()
+   - [ ] [09-04-2021] 5. [Multilingual question answering]()
    
 ## 2. Additional NLP tutorials
-   - [ ]  1. [BERT Experts]()
-   - [ ]  2. [Semantic similarity]()
-   - [ ]  3. [Text classification on Kaggle]()
-   - [ ]  4. [Bangla article classifier]()
-   - [ ]  5. [Explore CORD-19 text embeddings]()
-   - [ ]  6. [Retrieval based question answering]()
-   - [ ]  7. [Multilingual universal sentence encoder]()
-   - [ ]  8. [Text cookbook]()
+   - [ ] [10-04-2021] 1. [BERT Experts]()
+   - [ ] [11-04-2021] 2. [Semantic similarity]()
+   - [ ] [12-04-2021] 3. [Text classification on Kaggle]()
+   - [ ] [13-04-2021] 4. [Bangla article classifier]()
+   - [ ] [14-04-2021] 5. [Explore CORD-19 text embeddings]()
+   - [ ] [15-04-2021] 6. [Retrieval based question answering]()
+   - [ ] [16-04-2021] 7. [Multilingual universal sentence encoder]()
+   - [ ] [17-04-2021] 8. [Text cookbook]()
 
 ## 3. Image Tutorials
-   - [ ]  1. [Image classification]()
-   - [ ]  2. [Style transfer]()
-   - [ ]  3. [Object detection]()
-   - [ ]  4. [GANs for image generation]()
+   - [ ] [18-04-2021] 1. [Image classification]()
+   - [ ] [19-04-2021] 2. [Style transfer]()
+   - [ ] [20-04-2021] 3. [Object detection]()
+   - [ ] [21-04-2021] 4. [GANs for image generation]()
 
 ## 4. Additional Image tutorials
-   - [ ] 1. [CropNet: Cassava Disease Detection]()
-   - [ ] 2. [Boundless GAN]()
-   - [ ] 3. [Super resolution]()
+   - [ ] [22-04-2021] 1. [CropNet: Cassava Disease Detection]()
+   - [ ] [23-04-2021] 2. [Boundless GAN]()
+   - [ ] [24-04-2021] 3. [Super resolution]()
    
 ## 5. Audio Tutorial
-   - [ ] [Pitch recognition]()
-   - [ ] [Sound classification]()
+   - [ ] [25-04-2021] 1. [Pitch recognition]()
+   - [ ] [26-04-2021] 2. [Sound classification]()
    
 ## 6. Video Tutorial
-   - [ ] [Action recognition]()
-   - [ ] [Video interpolation]()
-   - [ ] [Text-to-video retrieval]()
+   - [ ] [27-04-2021] 1. [Action recognition]()
+   - [ ] [28-04-2021] 2. [Video interpolation]()
+   - [ ] [29-04-2021] 3. [Text-to-video retrieval]()
    
 # Topic
 
