@@ -11,16 +11,18 @@ python
 
 
 
+
+
 # TensorFlow tutorials
-  1. [Quickstart for beginners](https://colab.research.google.com/drive/1yKHQ4VFZzoL0RAnxi-3w7U_Qc3hoh2PD#scrollTo=87f-_j9pF9FT)
-  2. [Quickstart for experts](https://colab.research.google.com/drive/1n5w29O3d_4UjSzaEVYigEUjXASsBsCZD#scrollTo=ZVknXn73VP92)
+- [x]  1. [Quickstart for beginners](https://colab.research.google.com/drive/1yKHQ4VFZzoL0RAnxi-3w7U_Qc3hoh2PD#scrollTo=87f-_j9pF9FT)
+- [x]  2. [Quickstart for experts](https://colab.research.google.com/drive/1n5w29O3d_4UjSzaEVYigEUjXASsBsCZD#scrollTo=ZVknXn73VP92)
 
 # BEGINNER
   1. ML basics with Keras
-     1. [Basic Image Classification](https://colab.research.google.com/drive/1lYJKFiIMQwLwL4mVvdAulKuDddm2Izqk#scrollTo=BTuZOT9uCtkN)
-     2. [Basic Text Classsification](https://colab.research.google.com/drive/1NIcU5vlHCJ_m3vPz8Ack1OEMXAB9fJAo#scrollTo=Pjanyk7Zcy3Z)
-     3. [Text classification with TF Hub](https://colab.research.google.com/drive/1AMdWw0lDA9eZz9XeTLwixhWnyA8JYVcO#scrollTo=7o06U0PxHHX8)
-     4. [Regression](https://colab.research.google.com/drive/1POLpIolcAE89ovSxLKli0Y8NB5KwKc06#scrollTo=xVR73M26AGDx)
+  - [x]   1. [Basic Image Classification](https://colab.research.google.com/drive/1lYJKFiIMQwLwL4mVvdAulKuDddm2Izqk#scrollTo=BTuZOT9uCtkN)
+  - [x]   2. [Basic Text Classsification](https://colab.research.google.com/drive/1NIcU5vlHCJ_m3vPz8Ack1OEMXAB9fJAo#scrollTo=Pjanyk7Zcy3Z)
+  - [x]   3. [Text classification with TF Hub](https://colab.research.google.com/drive/1AMdWw0lDA9eZz9XeTLwixhWnyA8JYVcO#scrollTo=7o06U0PxHHX8)
+  - [x]   4. [Regression](https://colab.research.google.com/drive/1POLpIolcAE89ovSxLKli0Y8NB5KwKc06#scrollTo=xVR73M26AGDx)
      5. [Overfit and underfit]()
      6. [Save and load]()
      7. [Tune hyperparameters with Keras Tuner]()
