@@ -152,9 +152,22 @@
    3. Explicit extent and axes limits
 ## 3. Advanced
    ### 1. Blitting tutorial
+   1. Minimal example
+   2. Class-based example
    ### 2. Path Tutorial
+   1. Bezier example
+   2. Compound paths
    ### 3. Path effects guide
+   1. Adding a shadow
+   2. Making an artist stand out
+   3. Greater control of the path effect artist
    ### 4. Transformations Tutorial
+   1. Data coordinates
+   2. Axes coordinates
+   3. Blended transformations
+   4. Plotting in physical coordinates
+   5. Using offset transforms to create a shadow effect
+   6. The transformation pipeline.
 ## 4. Colors
    ### 1. Specifying Colors
    ### 2. Customized Colorbars 
