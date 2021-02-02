@@ -207,8 +207,12 @@
    6. References.
 ## 5. Provisional 
    ### 1. Complex and semantic figure composition
+   1. String short-hand
+   2. Controlling layout and subplot creation
+   3. Nested List input
 ## 6. Text
    ### 1. Text 
+   
    ### 2. Text properties and layout
    ### 3. Annotation
    ### 4. Writing mathematical expressions
