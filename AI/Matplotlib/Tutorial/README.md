@@ -29,7 +29,7 @@
       4. [Legends]()
       5. [Using the fast style]()
    
-   ### 2. Pyplot 
+   ### 2. [Pyplot]() 
    1. [Intro to pyplot]()
       1. [Formatting the style of your plot]()
    2. [Plotting with keyword strings]()
@@ -41,7 +41,7 @@
       2. [Annotating text]()
    7. [Logarithmic and other nonlinear axes]()
    
-   ### 3. [Sample plots
+   ### 3. [Sample plots]()
    1. [Line plot]()
    2. [Multiple subplots in one figure]()
    3. [Images]()
