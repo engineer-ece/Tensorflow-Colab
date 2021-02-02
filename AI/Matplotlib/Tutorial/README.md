@@ -212,12 +212,49 @@
    3. Nested List input
 ## 6. Text
    ### 1. Text 
-   
+   1. Basic text commands
+   2. Labels for x- and y- axis
+   3. Titles
+   4. Ticks and ticklabels
+      1. Terminology
+      2. Simple ticks
+      3. Tick Locators and Formatters
+      4. Dateticks
+   5. Legends and Annotations
    ### 2. Text properties and layout
+   1. Text with non-latin glyphs
    ### 3. Annotation
+   1. Basic annotations
+   2. Advanced Annotations
+      1. Annotating with Text with Box
+      2. Annotation with Arrow
+      3. Placing Artist at the achored location of the Axes
+      4. Using Complex Coordinates with Annotations
+      5. Using ConnectionPatch
+   3. Advanced Topics
+      1. Zoom effect between Axes
+      2. Define Custom BoxStyle
    ### 4. Writing mathematical expressions
+   1. Subscripts and superscripts
+   2. Fractions, binomials and stacked numbers
+   3. Radicals
+   4. Fonts
+      1. Custom fonts
+   5. Accents
+   6. Symbols
+   7. Example
    ### 5. Typesetting with XeLaTeX/LuaLaTex
+   1. Multi-Page PDF Files
+   2. Font specification
+   3. Custom preamble
+   4. Choosing the TeX system
+   5. Troubleshooting
    ### 6. Text rendering with LaTeX
+   1. usetex with unicode
+   2. Postscript options
+   3. Possible hangups
+   4. Troubleshooting
+   
 ## 7. Toolkits
    ### 1. Overview of axes_grid1 toolkit
    ### 2. Overview of axisartist toolkit
