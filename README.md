@@ -25,7 +25,7 @@ python
 - [x] [29-01-2021] 2. [Quickstart for experts](https://colab.research.google.com/drive/1n5w29O3d_4UjSzaEVYigEUjXASsBsCZD#scrollTo=ZVknXn73VP92)
 
 # BEGINNER
-  1. ML basics with Keras
+  ## 1. ML basics with Keras
   - [x] [30-01-2021]  1. [Basic Image Classification](https://colab.research.google.com/drive/1lYJKFiIMQwLwL4mVvdAulKuDddm2Izqk#scrollTo=BTuZOT9uCtkN)
   - [x] [31-01-2021]  2. [Basic Text Classsification](https://colab.research.google.com/drive/1NIcU5vlHCJ_m3vPz8Ack1OEMXAB9fJAo#scrollTo=Pjanyk7Zcy3Z)
   - [x] [01-02-2021]  3. [Text classification with TF Hub](https://colab.research.google.com/drive/1AMdWw0lDA9eZz9XeTLwixhWnyA8JYVcO#scrollTo=7o06U0PxHHX8)
@@ -33,7 +33,7 @@ python
   - [ ] [03-02-2021]  5. [Overfit and underfit]()
   - [ ] [04-02-2021]  6. [Save and load]()
   - [ ] [05-02-2021]  7. [Tune hyperparameters with Keras Tuner]()
-  2. Load and preprocess data
+ ## 2. Load and preprocess data
   - [ ] [06-02-2021]  1. [Images]()
   - [ ] [07-02-2021]  2. [Text]()
   - [ ] [08-02-2021]  3. [CSV]()
@@ -44,7 +44,7 @@ python
   - [ ] [13-02-2021]  8. [TFRecord and tf.Examples]()
   - [ ] [14-02-2021]  9. [Additional formats with tf.io]()
 
-  3. Estimator
+##  3. Estimator
   - [ ] [15-02-2021]   1. [Premade estimator]()
   - [ ] [16-02-2021]  2. [Linear model]()
   - [ ] [17-02-2021]  3. [Boosted trees]()
@@ -53,19 +53,19 @@ python
   - [ ] [20-02-2021]  6. [Multi-worker training with Estimator]()
 # ADVANCED
      
-  1. Customization
+ ## 1. Customization
   - [ ] [21-02-2021]  1. [Tensors and operations]()
   - [ ] [22-02-2021]  2. [Custom layers]()
   - [ ] [23-02-2021]  3. [Custom training: walkthrough]()
   
-  2. Distributed training
+##  2. Distributed training
   - [ ] [24-02-2021]  1. [Distributed training with Keras]()
   - [ ] [25-02-2021]  2. [Custom training loops]()
   - [ ] [26-02-2021]  3. [Multi-worker training with Keras]()
   - [ ] [27-02-2021]  4. [Parameter Server Training]()
   - [ ] [28-02-2021]  5. [Save and load]()
   - [ ] [01-03-2021]  6. [Distributed input]()
-  3. Images
+##  3. Images
   - [ ] [02-03-2021]  1. [Convolution Neural Network]()
   - [ ] [03-03-2021]  2. [Image classification]()
   - [ ] [04-03-2021]  3. [Transfer learning and fine-tuning]()
@@ -73,7 +73,7 @@ python
   - [ ] [06-03-2021]  5. [Data Augmentation]()
   - [ ] [07-03-2021]  6. [Image segmentation]()
   - [ ] [08-03-2021]  7. [Object detection with TF Hub]()
-  4. Text
+##  4. Text
   - [ ] [09-03-2021]  1. [Word embeddings]()
   - [ ] [10-03-2021]  2. [Word2Vec]()
   - [ ] [11-03-2021]  3. [Text classification with an RNN]()
@@ -86,15 +86,15 @@ python
   - [ ] [17-03-2021]  3. [Image captioning]()
   - [ ] [18-03-2021]  4. [Transformer model for language understanding]()
 
-  5. Audio
+##  5. Audio
   - [ ] [19-03-2021]  1. [Simple Audio Recognition]()
-  6. Structured data
+##  6. Structured data
   - [ ] [20-03-2021]  1. [Classify structured data with feature columns]()
   - [ ] [21-03-2021]  2. [Classify structured data with preprocessing layers]()
   - [ ] [22-03-2021]  3. [Classification on imbalanced data]()
   - [ ] [23-03-2021]  4. [Time series forecasting]()
   - [ ] [24-03-2021]  5. [Recommenders]()
-  7. Generative
+##  7. Generative
   - [ ] [25-03-2021]   1. [Neural style transfer]()
   - [ ] [26-03-2021]   2. [DeepDream]()
   - [ ] [27-03-2021]   3. [DCGAN]()
@@ -104,24 +104,24 @@ python
   - [ ] [31-03-2021]   7. [Intro to Autoencoders]()
   - [ ] [01-04-2021]   8. [Variational Autoencoder]()
 
-  8. Interpretability
+##  8. Interpretability
   - [ ] [02-04-2021]    1. [Integrated gradients]()
 
-  9. Reinforcement learning
+##  9. Reinforcement learning
   - [ ] [03-04-2021]   1. [Actor-Critic method]()
   - [ ] [04-04-2021]   2. [Tensorflow agents]()
 
 
 # Tensorflow HUB
 
-1. NLP Tutorials
+## 1. NLP Tutorials
    - [ ]  1. [Text classification]()
    - [ ]  2. [Classify text with BERT]()
    - [ ]  3. [BERT on TPU]()
    - [ ]  4. [Real-time semantic search]()
    - [ ]  5. [Multilingual question answering]()
    
-2. Additional NLP tutorials
+## 2. Additional NLP tutorials
    - [ ]  1. [BERT Experts]()
    - [ ]  2. [Semantic similarity]()
    - [ ]  3. [Text classification on Kaggle]()
@@ -131,22 +131,22 @@ python
    - [ ]  7. [Multilingual universal sentence encoder]()
    - [ ]  8. [Text cookbook]()
 
-3. Image Tutorials
+## 3. Image Tutorials
    - [ ]  1. [Image classification]()
    - [ ]  2. [Style transfer]()
    - [ ]  3. [Object detection]()
    - [ ]  4. [GANs for image generation]()
 
-4. Additional Image tutorials
+## 4. Additional Image tutorials
    - [ ] 1. [CropNet: Cassava Disease Detection]()
    - [ ] 2. [Boundless GAN]()
    - [ ] 3. [Super resolution]()
    
-5. Audio Tutorial
+## 5. Audio Tutorial
    - [ ] [Pitch recognition]()
    - [ ] [Sound classification]()
    
-6. Video Tutorial
+## 6. Video Tutorial
    - [ ] [Action recognition]()
    - [ ] [Video interpolation]()
    - [ ] [Text-to-video retrieval]()
