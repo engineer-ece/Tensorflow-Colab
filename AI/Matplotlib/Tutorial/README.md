@@ -67,6 +67,13 @@
    23. XKCD-style sketch plots
    24. Subplot example
    ### 4. Image 
+   1. Startup commands
+   2. Importing image data into Numpy array
+   3. Plotting numpy arrays as images
+      1. Applying pseudocolor schemes to image plots
+      2. Color scale reference
+      3. Examining a specific data range
+      4. Array Interpolation schemes
    ### 5. Lifecycle of Plot
    ### 6. Customizing Matplotlib (style sheet & rcParams)
 ## 2. Intermediate
