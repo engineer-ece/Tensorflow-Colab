@@ -20,7 +20,7 @@ python
      1. [Basic Image Classification](https://colab.research.google.com/drive/1lYJKFiIMQwLwL4mVvdAulKuDddm2Izqk#scrollTo=BTuZOT9uCtkN)
      2. [Basic Text Classsification](https://colab.research.google.com/drive/1NIcU5vlHCJ_m3vPz8Ack1OEMXAB9fJAo#scrollTo=Pjanyk7Zcy3Z)
      3. [Text classification with TF Hub](https://colab.research.google.com/drive/1AMdWw0lDA9eZz9XeTLwixhWnyA8JYVcO#scrollTo=7o06U0PxHHX8)
-     4. [Regression]()
+     4. [Regression](https://colab.research.google.com/drive/1POLpIolcAE89ovSxLKli0Y8NB5KwKc06#scrollTo=xVR73M26AGDx)
      5. [Overfit and underfit]()
      6. [Save and load]()
      7. [Tune hyperparameters with Keras Tuner]()
