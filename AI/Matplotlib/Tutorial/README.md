@@ -94,9 +94,27 @@
        1. A sample matplotlibrc file
 ## 2. Intermediate
    ### 1. Artist tutorial
+   1. Customizing your objects
+   2. Object containers
+     1. Figure container
+     2. Axes container
+     3. Axis container
+     4. Tick container
    ### 2. Legend guide
+   1. Controlling the legend entries
+   2. Creating artists specifically for adding to the legend(aka,Proxy artists)
+   3. Legend location
+   4. Multiple legends on the same Axes
+   5. Legend Handlers
+      1. Implementing a custom legend handler
    ### 3. Styling with cycler
+   1. Setting prop_cycle in the matplotlibrc or style files
+   2. Cycling through multiple properties
    ### 4. Customizing Figure Layouts Using GridSpec & Other Function
+   1. Basic Quickstart Guide
+   2. Fine Adjustment to Gridspec Layout
+   3. GridSpec using SubplotSpec
+   4. A Complex Nested GridSpec using SubplotSpec
    ### 5. Constrained Layout Guide
    ### 6. Tight Layout guide
    ### 7. Origin and extent in imshow
