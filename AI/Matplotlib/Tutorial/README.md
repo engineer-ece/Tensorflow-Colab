@@ -75,7 +75,23 @@
       3. Examining a specific data range
       4. Array Interpolation schemes
    ### 5. Lifecycle of Plot
+   1. A note on the Object-Oriented API vs Pyplot
+   2. Our data
+   3. Getting started
+   4. Controlling the style
+   5. Customizing the plot
+   6. Combining multiple visualizations
+   7. Saving out plot
    ### 6. Customizing Matplotlib (style sheet & rcParams)
+   * sheets   
+     1. Using style sheets
+     2. Defining your own style
+     3. Composing styles
+     4. Temporary styling
+   * Matplotlib rcParams
+     1. Dynamic rc settings
+     2. The matplotlibrc file
+       1. A sample matplotlibrc file
 ## 2. Intermediate
    ### 1. Artist tutorial
    ### 2. Legend guide
