@@ -41,254 +41,254 @@
       2. [Annotating text]()
    7. [Logarithmic and other nonlinear axes]()
    
-   ### 3. Sample plots
-   1. Line plot
-   2. Multiple subplots in one figure
-   3. Images
-   4. Contouring and pseudocolor
-   5. Histograms
-   6. Paths
-   7. Three-dimensional plotting
-   8. Streamplot
-   9. Ellipses
-   10. Bar charts
-   11. Pie charts
-   12. Tables
-   13. Scatter plots
-   14. GUI widgets
-   15. Filled curves
-   16. Date handling
-   17. Log plots
-   18. Polor plots
-   19. Legends
-   20. TeX-notation for text objects
-   21. Native TeX rendering
-   22. EEG GUI
-   23. XKCD-style sketch plots
-   24. Subplot example
-   ### 4. Image 
-   1. Startup commands
-   2. Importing image data into Numpy array
-   3. Plotting numpy arrays as images
-      1. Applying pseudocolor schemes to image plots
-      2. Color scale reference
-      3. Examining a specific data range
-      4. Array Interpolation schemes
-   ### 5. Lifecycle of Plot
-   1. A note on the Object-Oriented API vs Pyplot
-   2. Our data
-   3. Getting started
-   4. Controlling the style
-   5. Customizing the plot
-   6. Combining multiple visualizations
-   7. Saving out plot
-   ### 6. Customizing Matplotlib (style sheet & rcParams)
+   ### 3. [Sample plots
+   1. [Line plot
+   2. [Multiple subplots in one figure
+   3. [Images
+   4. [Contouring and pseudocolor
+   5. [Histograms
+   6. [Paths
+   7. [Three-dimensional plotting
+   8. [Streamplot
+   9. [Ellipses
+   10. [Bar charts
+   11. [Pie charts
+   12. [Tables
+   13. [Scatter plots
+   14. [GUI widgets
+   15. [Filled curves
+   16. [Date handling
+   17. [Log plots
+   18. [Polor plots
+   19. [Legends
+   20. [TeX-notation for text objects
+   21. [Native TeX rendering
+   22. [EEG GUI
+   23. [XKCD-style sketch plots
+   24. [Subplot example
+   ### 4. [Image 
+   1. [Startup commands
+   2. [Importing image data into Numpy array
+   3. [Plotting numpy arrays as images
+      1. [Applying pseudocolor schemes to image plots
+      2. [Color scale reference
+      3. [Examining a specific data range
+      4. [Array Interpolation schemes
+   ### 5. [Lifecycle of Plot
+   1. [A note on the Object-Oriented API vs Pyplot
+   2. [Our data
+   3. [Getting started
+   4. [Controlling the style
+   5. [Customizing the plot
+   6. [Combining multiple visualizations
+   7. [Saving out plot
+   ### 6. [Customizing Matplotlib (style sheet & rcParams)
    * sheets   
-     1. Using style sheets
-     2. Defining your own style
-     3. Composing styles
-     4. Temporary styling
+     1. [Using style sheets
+     2. [Defining your own style
+     3. [Composing styles
+     4. [Temporary styling
    * Matplotlib rcParams
-     1. Dynamic rc settings
-     2. The matplotlibrc file
-       1. A sample matplotlibrc file
-## 2. Intermediate
-   ### 1. Artist tutorial
-   1. Customizing your objects
-   2. Object containers
-      1. Figure container
-      2. Axes container
-      3. Axis container
-      4. Tick container
-   ### 2. Legend guide
-   1. Controlling the legend entries
-   2. Creating artists specifically for adding to the legend(aka,Proxy artists)
-   3. Legend location
-   4. Multiple legends on the same Axes
-   5. Legend Handlers
-      1. Implementing a custom legend handler
-   ### 3. Styling with cycler
-   1. Setting prop_cycle in the matplotlibrc or style files
-   2. Cycling through multiple properties
-   ### 4. Customizing Figure Layouts Using GridSpec & Other Function
-   1. Basic Quickstart Guide
-   2. Fine Adjustment to Gridspec Layout
-   3. GridSpec using SubplotSpec
-   4. A Complex Nested GridSpec using SubplotSpec
-   ### 5. Constrained Layout Guide
-   1. Simple Example
-   2. Colorbars
-   3. Suptitle
-   4. Legends
-   5. Padding and Spacing
-     1. Spacing with colorbars
-   6. rcParams
-   7. Use with GridSpec
-   8. Manually setting axes positions
-   9. Manually turning off constrained_layout
-   10. Limitations
-       1. Incompatible functions
-       2. Other Caveats
-   11. Debugging
-   12. Notes on the algorithm
-       1. Figure layout
-       2. Simple case: One Axes
-       3. Simple case: two Axes
-       4. Two Axes and colorbar
-       5. Colorbar associated with a Gridspec
-       6. Uneven sized Axes
-       7. Empty gridspec slots
-       8. Other notes
-   ### 6. Tight Layout guide
-   1. Simple Example
-   2. Caveats
-   3. Use with GridSpec
-   4. Legends and Annotations
-   5. Use with AxesGrid1
-   6. Colorbar
-   ### 7. Origin and extent in imshow
-   1. Default extent
-   2. Explicit extent
-   3. Explicit extent and axes limits
-## 3. Advanced
-   ### 1. Blitting tutorial
-   1. Minimal example
-   2. Class-based example
-   ### 2. Path Tutorial
-   1. Bezier example
-   2. Compound paths
-   ### 3. Path effects guide
-   1. Adding a shadow
-   2. Making an artist stand out
-   3. Greater control of the path effect artist
-   ### 4. Transformations Tutorial
-   1. Data coordinates
-   2. Axes coordinates
-   3. Blended transformations
-   4. Plotting in physical coordinates
-   5. Using offset transforms to create a shadow effect
-   6. The transformation pipeline.
-## 4. Colors
-   ### 1. Specifying Colors
-   1. "CN" color selection
-   2. xkcd v X11/CSS4
-   ### 2. Customized Colorbars 
-   1. Basic continuous colorbar
-   2. Extended colorbar with continuous colorscale
-   3. Discrete intervals colorbar
-   4. Colorbar with custom extension lengths
-   ### 3. Creating Colormaps
-   1. Getting colormaps and accessing their values
-      1. ListedColormap
-      2. LinearSegmentedColormap
-   2. Creating listed colormaps
-   3. Creating linear segmented colormaps
-      1. Directly creating a segmented colormap from a list
-         1. References
-   ### 4. Colormap Normalization
-   1. Logarithmic
-   2. Symmetric logarithmic
-   3. Power-law
-   4. Discrete bounds
-   5. TwoSlopeNorm: Different mapping on either side of a center
-   6. Custom normalization: Manually implement two linear ranges.
-   ### 5. Choosing Colormaps
-   1. Overview
-   2. Classes of colormaps
-      1. Sequential
-      2. Sequential2
-      3. Diverging
-      4. Cyclic
-      5. Qualitative
-      6. Miscellaneous
-   3. Lightness of Matplotlib colormaps
-   4. Grayscale conversion
-   5. Color vision deficiencies
-   6. References.
-## 5. Provisional 
-   ### 1. Complex and semantic figure composition
-   1. String short-hand
-   2. Controlling layout and subplot creation
-   3. Nested List input
-## 6. Text
-   ### 1. Text 
-   1. Basic text commands
-   2. Labels for x- and y- axis
-   3. Titles
-   4. Ticks and ticklabels
-      1. Terminology
-      2. Simple ticks
-      3. Tick Locators and Formatters
-      4. Dateticks
-   5. Legends and Annotations
-   ### 2. Text properties and layout
-   1. Text with non-latin glyphs
-   ### 3. Annotation
-   1. Basic annotations
-   2. Advanced Annotations
-      1. Annotating with Text with Box
-      2. Annotation with Arrow
-      3. Placing Artist at the achored location of the Axes
-      4. Using Complex Coordinates with Annotations
-      5. Using ConnectionPatch
-   3. Advanced Topics
-      1. Zoom effect between Axes
-      2. Define Custom BoxStyle
-   ### 4. Writing mathematical expressions
-   1. Subscripts and superscripts
-   2. Fractions, binomials and stacked numbers
-   3. Radicals
-   4. Fonts
-      1. Custom fonts
-   5. Accents
-   6. Symbols
-   7. Example
-   ### 5. Typesetting with XeLaTeX/LuaLaTex
-   1. Multi-Page PDF Files
-   2. Font specification
-   3. Custom preamble
-   4. Choosing the TeX system
-   5. Troubleshooting
-   ### 6. Text rendering with LaTeX
-   1. usetex with unicode
-   2. Postscript options
-   3. Possible hangups
-   4. Troubleshooting
+     1. [Dynamic rc settings
+     2. [The matplotlibrc file
+       1. [A sample matplotlibrc file
+## 2. [Intermediate
+   ### 1. [Artist tutorial
+   1. [Customizing your objects
+   2. [Object containers
+      1. [Figure container
+      2. [Axes container
+      3. [Axis container
+      4. [Tick container
+   ### 2. [Legend guide
+   1. [Controlling the legend entries
+   2. [Creating artists specifically for adding to the legend(aka,Proxy artists)
+   3. [Legend location
+   4. [Multiple legends on the same Axes
+   5. [Legend Handlers
+      1. [Implementing a custom legend handler
+   ### 3. [Styling with cycler
+   1. [Setting prop_cycle in the matplotlibrc or style files
+   2. [Cycling through multiple properties
+   ### 4. [Customizing Figure Layouts Using GridSpec & Other Function
+   1. [Basic Quickstart Guide
+   2. [Fine Adjustment to Gridspec Layout
+   3. [GridSpec using SubplotSpec
+   4. [A Complex Nested GridSpec using SubplotSpec
+   ### 5. [Constrained Layout Guide
+   1. [Simple Example
+   2. [Colorbars
+   3. [Suptitle
+   4. [Legends
+   5. [Padding and Spacing
+     1. [Spacing with colorbars
+   6. [rcParams
+   7. [Use with GridSpec
+   8. [Manually setting axes positions
+   9. [Manually turning off constrained_layout
+   10. [Limitations
+       1. [Incompatible functions
+       2. [Other Caveats
+   11. [Debugging
+   12. [Notes on the algorithm
+       1. [Figure layout
+       2. [Simple case: One Axes
+       3. [Simple case: two Axes
+       4. [Two Axes and colorbar
+       5. [Colorbar associated with a Gridspec
+       6. [Uneven sized Axes
+       7. [Empty gridspec slots
+       8. [Other notes
+   ### 6. [Tight Layout guide
+   1. [Simple Example
+   2. [Caveats
+   3. [Use with GridSpec
+   4. [Legends and Annotations
+   5. [Use with AxesGrid1
+   6. [Colorbar
+   ### 7. [Origin and extent in imshow
+   1. [Default extent
+   2. [Explicit extent
+   3. [Explicit extent and axes limits
+## 3. [Advanced
+   ### 1. [Blitting tutorial
+   1. [Minimal example
+   2. [Class-based example
+   ### 2. [Path Tutorial
+   1. [Bezier example
+   2. [Compound paths
+   ### 3. [Path effects guide
+   1. [Adding a shadow
+   2. [Making an artist stand out
+   3. [Greater control of the path effect artist
+   ### 4. [Transformations Tutorial
+   1. [Data coordinates
+   2. [Axes coordinates
+   3. [Blended transformations
+   4. [Plotting in physical coordinates
+   5. [Using offset transforms to create a shadow effect
+   6. [The transformation pipeline.
+## 4. [Colors
+   ### 1. [Specifying Colors
+   1. ["CN" color selection
+   2. [xkcd v X11/CSS4
+   ### 2. [Customized Colorbars 
+   1. [Basic continuous colorbar
+   2. [Extended colorbar with continuous colorscale
+   3. [Discrete intervals colorbar
+   4. [Colorbar with custom extension lengths
+   ### 3. [Creating Colormaps
+   1. [Getting colormaps and accessing their values
+      1. [ListedColormap
+      2. [LinearSegmentedColormap
+   2. [Creating listed colormaps
+   3. [Creating linear segmented colormaps
+      1. [Directly creating a segmented colormap from a list
+         1. [References
+   ### 4. [Colormap Normalization
+   1. [Logarithmic
+   2. [Symmetric logarithmic
+   3. [Power-law
+   4. [Discrete bounds
+   5. [TwoSlopeNorm: Different mapping on either side of a center
+   6. [Custom normalization: Manually implement two linear ranges.
+   ### 5. [Choosing Colormaps
+   1. [Overview
+   2. [Classes of colormaps
+      1. [Sequential
+      2. [Sequential2
+      3. [Diverging
+      4. [Cyclic
+      5. [Qualitative
+      6. [Miscellaneous
+   3. [Lightness of Matplotlib colormaps
+   4. [Grayscale conversion
+   5. [Color vision deficiencies
+   6. [References.
+## 5. [Provisional 
+   ### 1. [Complex and semantic figure composition
+   1. [String short-hand
+   2. [Controlling layout and subplot creation
+   3. [Nested List input
+## 6. [Text
+   ### 1. [Text 
+   1. [Basic text commands
+   2. [Labels for x- and y- axis
+   3. [Titles
+   4. [Ticks and ticklabels
+      1. [Terminology
+      2. [Simple ticks
+      3. [Tick Locators and Formatters
+      4. [Dateticks
+   5. [Legends and Annotations
+   ### 2. [Text properties and layout
+   1. [Text with non-latin glyphs
+   ### 3. [Annotation
+   1. [Basic annotations
+   2. [Advanced Annotations
+      1. [Annotating with Text with Box
+      2. [Annotation with Arrow
+      3. [Placing Artist at the achored location of the Axes
+      4. [Using Complex Coordinates with Annotations
+      5. [Using ConnectionPatch
+   3. [Advanced Topics
+      1. [Zoom effect between Axes
+      2. [Define Custom BoxStyle
+   ### 4. [Writing mathematical expressions
+   1. [Subscripts and superscripts
+   2. [Fractions, binomials and stacked numbers
+   3. [Radicals
+   4. [Fonts
+      1. [Custom fonts
+   5. [Accents
+   6. [Symbols
+   7. [Example
+   ### 5. [Typesetting with XeLaTeX/LuaLaTex
+   1. [Multi-Page PDF Files
+   2. [Font specification
+   3. [Custom preamble
+   4. [Choosing the TeX system
+   5. [Troubleshooting
+   ### 6. [Text rendering with LaTeX
+   1. [usetex with unicode
+   2. [Postscript options
+   3. [Possible hangups
+   4. [Troubleshooting
    
-## 7. Toolkits
-   ### 1. Overview of axes_grid1 toolkit
-   1. What is axes_grid1 toolkit?
-   2. axes_grid1
-      1. ImageGrid
-      2. AxesDivider Class
-      3. colorbar whose height( or width) in sync with the master axes
-         1. scatter_hist.py with AxesDivider
+## 7. [Toolkits
+   ### 1. [Overview of axes_grid1 toolkit
+   1. [What is axes_grid1 toolkit?
+   2. [axes_grid1
+      1. [ImageGrid
+      2. [AxesDivider Class
+      3. [colorbar whose height( or width) in sync with the master axes
+         1. [scatter_hist.py with AxesDivider
       4. ParasiteAxes
-         1. Example 1.twinx
-         2. Example 2.twin
-      5. AnchoredArtists
-      6. InsetLocator
-         1. RGB Axes
-      7. AxesDivider
-   ### 2. Overview of axisartist toolkit
-   1. axisartist
-      1. axisartist with ParasiteAxes
-      2. Curvilinear Grid
-      3. Floating Axes
-   2. axisartist namespace
-   3. AxisArtist
-      1. line
-      2. major_ticks, minor_ticks
-      3. major_ticklabels, minor_ticklabels
-      4. axislabel
-   4. Default AxisArtists
-   5. Howto
-   6. Rotation and Alignment of TickLabels
-       1. Adjusting ticklabels alignments
-       2. Adjusting pad
-   7. GridHelper
-   8. FloatingAxis
-   9. Current Limitation and TODO's
+         1. [Example 1.twinx
+         2. [Example 2.twin
+      5. [AnchoredArtists
+      6. [InsetLocator
+         1. [RGB Axes
+      7. [AxesDivider
+   ### 2. [Overview of axisartist toolkit
+   1. [axisartist
+      1. [axisartist with ParasiteAxes
+      2. [Curvilinear Grid
+      3. [Floating Axes
+   2. [axisartist namespace
+   3. [AxisArtist
+      1. [line
+      2. [major_ticks, minor_ticks
+      3. [major_ticklabels, minor_ticklabels
+      4. [axislabel
+   4. [Default AxisArtists
+   5. [Howto
+   6. [Rotation and Alignment of TickLabels
+       1. [Adjusting ticklabels alignments
+       2. [Adjusting pad
+   7. [GridHelper
+   8. [FloatingAxis
+   9. [Current Limitation and TODO's
        
    ### 3. The mplot3d Toolkit
    1. Line plots
