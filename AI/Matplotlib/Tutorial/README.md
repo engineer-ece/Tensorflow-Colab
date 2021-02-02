@@ -257,5 +257,37 @@
    
 ## 7. Toolkits
    ### 1. Overview of axes_grid1 toolkit
+   1. What is axes_grid1 toolkit?
+   2. axes_grid1
+      1. ImageGrid
+      2. AxesDivider Class
+      3. colorbar whose height( or width) in sync with the master axes
+         1. scatter_hist.py with AxesDivider
+      4. ParasiteAxes
+         1. Example 1.twinx
+         2. Example 2.twin
+      5. AnchoredArtists
+      6. InsetLocator
+         1. RGB Axes
+      7. AxesDivider
    ### 2. Overview of axisartist toolkit
+   1. axisartist
+      1. axisartist with ParasiteAxes
+      2. Curvilinear Grid
+      3. Floating Axes
+   2. axisartist namespace
+   3. AxisArtist
+      1. line
+      2. major_ticks, minor_ticks
+      3. major_ticklabels, minor_ticklabels
+      4. axislabel
+    4. Default AxisArtists
+    5. Howto
+    6. Rotation and Alignment of TickLabels
+       1. Adjusting ticklabels alignments
+       2. Adjusting pad
+    7. GridHelper
+    8. FloatingAxis
+    9. Current Limitation and TODO's
+       
    ### 3. The mplot3d Toolkit
