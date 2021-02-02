@@ -131,14 +131,14 @@
       2. Other Caveats
    11. Debugging
    12. Notes on the algorithm
-      1. Figure layout
-      2. Simple case: One Axes
-      3. Simple case: two Axes
-      4. Two Axes and colorbar
-      5. Colorbar associated with a Gridspec
-      6. Uneven sized Axes
-      7. Empty gridspec slots
-      8. Other notes
+     1. Figure layout
+     2. Simple case: One Axes
+     3. Simple case: two Axes
+     4. Two Axes and colorbar
+     5. Colorbar associated with a Gridspec
+     6. Uneven sized Axes
+     7. Empty gridspec slots
+     8. Other notes
    ### 6. Tight Layout guide
    1. Simple Example
    2. Caveats
