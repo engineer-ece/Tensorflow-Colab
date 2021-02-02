@@ -112,8 +112,45 @@ python
   - [ ] [04-04-2021]   2. [Tensorflow agents]()
 
 
+# Tensorflow HUB
 
+1. NLP Tutorials
+   - [ ]  1. [Text classification]()
+   - [ ]  2. [Classify text with BERT]()
+   - [ ]  3. [BERT on TPU]()
+   - [ ]  4. [Real-time semantic search]()
+   - [ ]  5. [Multilingual question answering]()
+   
+2. Additional NLP tutorials
+   - [ ]  1. BERT Experts
+   - [ ]  2. Semantic similarity
+   - [ ]  3. Text classification on Kaggle
+   - [ ]  4. Bangla article classifier
+   - [ ]  5. Explore CORD-19 text embeddings
+   - [ ]  6. Retrieval based question answering
+   - [ ]  7. Multilingual universal sentence encoder
+   - [ ]  8. Text cookbook
 
+3. Image Tutorials
+   - [ ]  1. Image classification
+   - [ ]  2. Style transfer
+   - [ ]  3. Object detection
+   - [ ]  4. GANs for image generation
+
+4. Additional Image tutorials
+   - [ ] 1. CropNet: Cassava Disease Detection
+   - [ ] 2. Boundless GAN
+   - [ ] 3. Super resolution
+   
+5. Audio Tutorial
+   - [ ] Pitch recognition
+   - [ ] Sound classification
+   
+6. Video Tutorial
+   - [ ] Action recognition
+   - [ ] Video interpolation
+   - [ ] Text-to-video retrieval
+   
 # Topic
 
 <br> [1. Introduction to Google Colab](https://github.com/engineer-ece/Tensorflow-Colab/blob/main/AI/Introduction_to__2_1_2021.ipynb)
