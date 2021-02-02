@@ -28,7 +28,19 @@
       3. [Splitting lines into smaller chunks]()
       4. [Legends]()
       5. [Using the fast style]()
+   
    ### 2. Pyplot 
+   1. [Intro to pyplot]()
+      1. [Formatting the style of your plot]()
+   2. [Plotting with keyword strings]()
+   3. [Plotting with categorical variables]()
+   4. [Controlling line properties]()
+   5. [Working with multiple figures and axes]()
+   6. [Working with text]()
+      1. [Using mathematical expressions in text]()
+      2. [Annotating text]()
+   7. [Logarithmic and other nonlinear axes]()
+   
    ### 3. Sample plots
    ### 4. Image 
    ### 5. Lifecycle of Plot
