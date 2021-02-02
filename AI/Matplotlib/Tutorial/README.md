@@ -96,10 +96,10 @@
    ### 1. Artist tutorial
    1. Customizing your objects
    2. Object containers
-    1. Figure container
-    2. Axes container
-    3. Axis container
-    4. Tick container
+      1. Figure container
+      2. Axes container
+      3. Axis container
+      4. Tick container
    ### 2. Legend guide
    1. Controlling the legend entries
    2. Creating artists specifically for adding to the legend(aka,Proxy artists)
@@ -127,18 +127,18 @@
    8. Manually setting axes positions
    9. Manually turning off constrained_layout
    10. Limitations
-      1. Incompatible functions
-      2. Other Caveats
+       1. Incompatible functions
+       2. Other Caveats
    11. Debugging
    12. Notes on the algorithm
-     1. Figure layout
-     2. Simple case: One Axes
-     3. Simple case: two Axes
-     4. Two Axes and colorbar
-     5. Colorbar associated with a Gridspec
-     6. Uneven sized Axes
-     7. Empty gridspec slots
-     8. Other notes
+       1. Figure layout
+       2. Simple case: One Axes
+       3. Simple case: two Axes
+       4. Two Axes and colorbar
+       5. Colorbar associated with a Gridspec
+       6. Uneven sized Axes
+       7. Empty gridspec slots
+       8. Other notes
    ### 6. Tight Layout guide
    1. Simple Example
    2. Caveats
