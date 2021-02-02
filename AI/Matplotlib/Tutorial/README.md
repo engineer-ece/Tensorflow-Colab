@@ -170,10 +170,41 @@
    6. The transformation pipeline.
 ## 4. Colors
    ### 1. Specifying Colors
+   1. "CN" color selection
+   2. xkcd v X11/CSS4
    ### 2. Customized Colorbars 
+   1. Basic continuous colorbar
+   2. Extended colorbar with continuous colorscale
+   3. Discrete intervals colorbar
+   4. Colorbar with custom extension lengths
    ### 3. Creating Colormaps
+   1. Getting colormaps and accessing their values
+      1. ListedColormap
+      2. LinearSegmentedColormap
+   2. Creating listed colormaps
+   3. Creating linear segmented colormaps
+      1. Directly creating a segmented colormap from a list
+         1. References
    ### 4. Colormap Normalization
+   1. Logarithmic
+   2. Symmetric logarithmic
+   3. Power-law
+   4. Discrete bounds
+   5. TwoSlopeNorm: Different mapping on either side of a center
+   6. Custom normalization: Manually implement two linear ranges.
    ### 5. Choosing Colormaps
+   1. Overview
+   2. Classes of colormaps
+      1. Sequential
+      2. Sequential2
+      3. Diverging
+      4. Cyclic
+      5. Qualitative
+      6. Miscellaneous
+   3. Lightness of Matplotlib colormaps
+   4. Grayscale conversion
+   5. Color vision deficiencies
+   6. References.
 ## 5. Provisional 
    ### 1. Complex and semantic figure composition
 ## 6. Text
