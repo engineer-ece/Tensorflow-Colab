@@ -15,9 +15,10 @@ python
 
 # TensorFlow tutorials
 
-### Start Date : 29-01-2021
-### End Date   : 04-04-2021
-### Duration   : 66 days, (i.e) 2 months, 7 days.
+
+* Start Date : 29-01-2021
+* End Date   : 04-04-2021
+* Duration   : 66 days, (i.e) 2 months, 7 days.
 
 
 - [x] [29-01-2021] 1. [Quickstart for beginners](https://colab.research.google.com/drive/1yKHQ4VFZzoL0RAnxi-3w7U_Qc3hoh2PD#scrollTo=87f-_j9pF9FT)
