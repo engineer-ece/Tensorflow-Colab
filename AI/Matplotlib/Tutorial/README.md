@@ -96,10 +96,10 @@
    ### 1. Artist tutorial
    1. Customizing your objects
    2. Object containers
-     1. Figure container
-     2. Axes container
-     3. Axis container
-     4. Tick container
+    1. Figure container
+    2. Axes container
+    3. Axis container
+    4. Tick container
    ### 2. Legend guide
    1. Controlling the legend entries
    2. Creating artists specifically for adding to the legend(aka,Proxy artists)
@@ -116,8 +116,40 @@
    3. GridSpec using SubplotSpec
    4. A Complex Nested GridSpec using SubplotSpec
    ### 5. Constrained Layout Guide
+   1. Simple Example
+   2. Colorbars
+   3. Suptitle
+   4. Legends
+   5. Padding and Spacing
+     1. Spacing with colorbars
+   6. rcParams
+   7. Use with GridSpec
+   8. Manually setting axes positions
+   9. Manually turning off constrained_layout
+   10. Limitations
+      1. Incompatible functions
+      2. Other Caveats
+   11. Debugging
+   12. Notes on the algorithm
+      1. Figure layout
+      2. Simple case: One Axes
+      3. Simple case: two Axes
+      4. Two Axes and colorbar
+      5. Colorbar associated with a Gridspec
+      6. Uneven sized Axes
+      7. Empty gridspec slots
+      8. Other notes
    ### 6. Tight Layout guide
+   1. Simple Example
+   2. Caveats
+   3. Use with GridSpec
+   4. Legends and Annotations
+   5. Use with AxesGrid1
+   6. Colorbar
    ### 7. Origin and extent in imshow
+   1. Default extent
+   2. Explicit extent
+   3. Explicit extent and axes limits
 ## 3. Advanced
    ### 1. Blitting tutorial
    ### 2. Path Tutorial
