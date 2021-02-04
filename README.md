@@ -31,7 +31,7 @@ python
   - [x] [01-02-2021]  3. [Text classification with TF Hub](https://colab.research.google.com/drive/1AMdWw0lDA9eZz9XeTLwixhWnyA8JYVcO#scrollTo=7o06U0PxHHX8)
   - [x] [02-02-2021]  4. [Regression](https://colab.research.google.com/drive/1POLpIolcAE89ovSxLKli0Y8NB5KwKc06#scrollTo=xVR73M26AGDx)
   - [x] [03-02-2021]  5. [Overfit and underfit](https://colab.research.google.com/drive/1R9wryFMZszTCGDeBxNYpLN_fYH_xbgwG#scrollTo=iDQCKjniEXWf)
-  - [ ] [04-02-2021]  6. [Save and load]()
+  - [x] [04-02-2021]  6. [Save and load](https://colab.research.google.com/drive/1-IBCArbcPKlzuDxSj4_KKs7PXlwzDLAS#scrollTo=JEyg3GWKvjmb)
   - [ ] [05-02-2021]  7. [Tune hyperparameters with Keras Tuner]()
  ## 2. Load and preprocess data
   - [ ] [06-02-2021]  1. [Images]()
