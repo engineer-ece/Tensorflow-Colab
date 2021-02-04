@@ -2,8 +2,8 @@
 
 ## 1. Introduction
    ### 1. Usage Guide
-   - [ ] 1. [A simple example](https://colab.research.google.com/drive/1l8aFOE0kt-iUwmf5SQizVpkuz3W7COdF#scrollTo=SRyI1qGd56ph)
-   - [ ] 2. [Parts of a Figure]()
+   - [x] 1. [A simple example](https://colab.research.google.com/drive/1l8aFOE0kt-iUwmf5SQizVpkuz3W7COdF#scrollTo=SRyI1qGd56ph)
+   - [x] 2. [Parts of a Figure](https://colab.research.google.com/drive/1wSub_DV1lOc1RxdGknI-kolXDYIW1Iou#scrollTo=sOjHzJYyOJJL)
       - [ ] 1. [Figure]()
       - [ ] 2. [Axes]()
       - [ ] 3. [Axis]()
