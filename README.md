@@ -34,7 +34,7 @@ python
   - [x] [04-02-2021]  6. [Save and load](https://colab.research.google.com/drive/1-IBCArbcPKlzuDxSj4_KKs7PXlwzDLAS#scrollTo=JEyg3GWKvjmb)
   - [x] [05-02-2021]  7. [Tune hyperparameters with Keras Tuner](https://colab.research.google.com/drive/185YBvXfXJTOlXgvGM575DfOPksi6z_ds#scrollTo=urogcd9CtKp7)
  ## 2. Load and preprocess data
-  - [ ] [06-02-2021]  1. [Images]()
+  - [x] [06-02-2021]  1. [Images](https://colab.research.google.com/drive/19SeZYOI0RW6dgl6IUSDCq5BTCvsc6O9k#scrollTo=gI7nHaEXMX4M)
   - [ ] [07-02-2021]  2. [Text]()
   - [ ] [08-02-2021]  3. [CSV]()
   - [ ] [09-02-2021]  4. [Numpy]()
