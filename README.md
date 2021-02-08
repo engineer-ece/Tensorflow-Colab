@@ -36,7 +36,7 @@ python
  ## 2. Load and preprocess data
   - [x] [06-02-2021]  1. [Images](https://colab.research.google.com/drive/19SeZYOI0RW6dgl6IUSDCq5BTCvsc6O9k#scrollTo=gI7nHaEXMX4M)
   - [x] [07-02-2021]  2. [CSV](https://colab.research.google.com/drive/1icAsmd2mzc31NKPMfYx-NfIb8pdcnV7e#scrollTo=NCmCyc48g_87)
-  - [ ] [08-02-2021]  3. [Numpy]()
+  - [x] [08-02-2021]  3. [Numpy](https://colab.research.google.com/drive/1jjVWQUUQaL479nbZkrSnEsCuW5Ap4hma#scrollTo=uwu8WIvmGLrI)
   - [ ] [09-02-2021]  4. [pandas.DataFrame]()
   - [ ] [10-02-2021]  5. [Text]()
   - [ ] [11-02-2021]  6. [Unicode]()
