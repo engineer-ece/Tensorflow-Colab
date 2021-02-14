@@ -1,6 +1,9 @@
 #### Documented Date = 29-01-2021
 
-
+---
+**Total Number of Days to Complete TensorFlow in Python :** 
+# 244 Days.
+---
 #  @ Tensorflow-Colab 
 
 python
