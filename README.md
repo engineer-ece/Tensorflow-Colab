@@ -161,176 +161,176 @@ python
 
 ## 1. About Keras
 ## 2. Getting Started
-   1. Introduction to Keras for engineers
-   2. Introduction to Keras for researchers
-   3. The Keras ecosystem
-   4. Learning resources
-   5. Frequently Asked Questions
+   1. [Introduction to Keras for engineers]()
+   2. [Introduction to Keras for researchers]()
+   3. [The Keras ecosystem]()
+   4. [Learning resources]()
+   5. [Frequently Asked Questions]()
 ## 3. Developer guides
-   1. The Functional API
-   2. The Sequential model
-   3. Making new Layers & Models via subclassing
-   4. Training & evaluation with the built-in methods
-   5. Customizing what happens in fit()
-   6. Writing a training loop from scratch
-   7. Serialization & Saving
-   8. Writing your own Callbacks
-   9. Working with preprocessing Layers
-   10. Working with recurrent neural networks
-   11. Understanding masking & padding
-   12. Multi-GPU & distributed training
-   13. Transfer learning & fine-tuning
-   14. Training Keras models with TensorFlow cloud
+   1. [The Functional API]()
+   2. [The Sequential model]()
+   3. [Making new Layers & Models via subclassing]()
+   4. [Training & evaluation with the built-in methods]()
+   5. [Customizing what happens in fit()]()
+   6. [Writing a training loop from scratch]()
+   7. [Serialization & Saving]()
+   8. [Writing your own Callbacks]()
+   9. [Working with preprocessing Layers]()
+   10. [Working with recurrent neural networks]()
+   11. [Understanding masking & padding]()
+   12. [Multi-GPU & distributed training]()
+   13. [Transfer learning & fine-tuning
+   14. [Training Keras models with TensorFlow cloud]()
 ## 4. Keras API reference
 ### 1. Model API
-   1. The Model class
-   2. The Sequential class
-   3. Model training APIs
-   4. Model saving & serialization APIs
+   1. [The Model class]()
+   2. [The Sequential class]()
+   3. [Model training APIs]()
+   4. [Model saving & serialization APIs]()
 ### 2. Layers API
-   1. The base Layer class
-   2. Layer activations
-   3. Layer weight Initializers
-   4. Layer weight regularizers
-   5. Layer weight constraints
-   6. Core layers
-   7. Convolution layers
-   8. Pooling layers
-   9. Recurrent layers
-   10. Preprocessing layers
-   11. Normalization layers
-   12. Regularization layers
-   13. Attention layers
-   14. Reshaping layers
-   15. Merging layers
-   16. Locally-connected layers
-   17. Activation layers
+   1. [The base Layer class]()
+   2. [Layer activations]()
+   3. [Layer weight Initializers]()
+   4. [Layer weight regularizers]()
+   5. [Layer weight constraints]()
+   6. [Core layers]()
+   7. [Convolution layers]()
+   8. [Pooling layers]()
+   9. [Recurrent layers]()
+   10. [Preprocessing layers]()
+   11. [Normalization layers]()
+   12. [Regularization layers]()
+   13. [Attention layers]()
+   14. [Reshaping layers]()
+   15. [Merging layers]()
+   16. [Locally-connected layers]()
+   17. [Activation layers]()
 ### 3. Callbacks API
-   1. Base Callback class
-   2. ModelCheckpoint
-   3. TensorBoard
-   4. EarlyStopping 
-   5. LearningRateScheduler
-   6. ReduceLROnPlateau
-   7. RemoteMonitor
-   8. LambdaCallback
-   9. TerminateOnNaN
-   10. CSVLogger
-   11. ProgbarLogger
+   1. [Base Callback class]()
+   2. [ModelCheckpoint]()
+   3. [TensorBoard]()
+   4. [EarlyStopping]()
+   5. [LearningRateScheduler]()
+   6. [ReduceLROnPlateau]()
+   7. [RemoteMonitor]()
+   8. [LambdaCallback]()
+   9. [TerminateOnNaN]()
+   10. [CSVLogger]()
+   11. [ProgbarLogger]()
 ###  4. Data preprocessing
-   1. Image data preprocessing
-   2. Timeseries data preprocessing
-   3. Text data preprocessing
+   1. [Image data preprocessing]()
+   2. [Timeseries data preprocessing]()
+   3. [Text data preprocessing]()
 ###  5. Optimizer
-   1. SGD
-   2. RMSprop
-   3. Adam
-   4. Adadelta
-   5. Adagrad
-   6. Adamax
-   7. Nadam
-   8. Ftrl
+   1. [SGD]()
+   2. [RMSprop]()
+   3. [Adam]()
+   4. [Adadelta]()
+   5. [Adagrad]()
+   6. [Adamax]()
+   7. [Nadam]()
+   8. [Ftrl]()
 ### 6. Metrics
-   1. Accuracy metrics
-   2. Probabilistic metrics
-   3. Regression metrics
-   4. Classification metrics based on True/False positives & negatives
-   5. Image segmentation metrics
-   6. Hinge metrics for "maximum-margin" classification
+   1. [Accuracy metrics]()
+   2. [Probabilistic metrics]()
+   3. [Regression metrics]()
+   4. [Classification metrics based on True/False positives & negatives]()
+   5. [Image segmentation metrics]()
+   6. [Hinge metrics for "maximum-margin" classification]()
 ### 7. Losses
-   1. Probabilistic losses
-   2. Regression losses
-   3. Hinge losses for "maximum-margin" classification
+   1. [Probabilistic losses]()
+   2. [Regression losses]()
+   3. [Hinge losses for "maximum-margin" classification]()
 ### 8. Built-in small datasets
-   1. MNIST digits classification dataset
-   2. CIFAR10 small Image classification dataset
-   3. CIFAR100 small Image classification dataset
-   4. IMDB movie review sentiment classification dataset
-   5. Reuters newswire classification dataset
-   6. Fashion MNISt dataset, an alternative to MNIST
-   7. Boston Housing price regression dataset
+   1. [MNIST digits classification dataset]()
+   2. [CIFAR10 small Image classification dataset]()
+   3. [CIFAR100 small Image classification dataset]()
+   4. [IMDB movie review sentiment classification dataset]()
+   5. [Reuters newswire classification dataset]()
+   6. [Fashion MNISt dataset, an alternative to MNIST]()
+   7. [Boston Housing price regression dataset]()
 ### 9. Keras Application 
-   1. Xception 
-   2. EfficientNet B0 to B7
-   3. VGG16 and VGG19
-   4. ResNet and ResNetV2
-   5. MobileNet and MobileNetV2
-   6. DenseNet
-   7. NasNetLarge and NasNetMobile
-   8. InceptionV3
-   9. InceptionResNetV2
+   1. [Xception]()
+   2. [EfficientNet B0 to B7]()
+   3. [VGG16 and VGG19]()
+   4. [ResNet and ResNetV2]()
+   5. [MobileNet and MobileNetV2]()
+   6. [DenseNet]()
+   7. [NasNetLarge and NasNetMobile]()
+   8. [InceptionV3]()
+   9. [InceptionResNetV2]()
 ### 10. Utilites
-   1. Model plotting utilites
-   2. Serialization utilites 
-   3. Python & NumPy utilites
-   4. Backend utilities
+   1. [Model plotting utilites]()
+   2. [Serialization utilites ]()
+   3. [Python & NumPy utilites]()
+   4. [Backend utilities]()
 ## 5. Code examples
 ### 1. Computer Vision
-   1. Image classification from scrtch
-   2. Simple MNIST convnet
-   3. Image segmentation with a U-Net-like architecture
-   4. 3D Image Classification from CT Scans
-   5. OCR model for reading Captchas
-   6. Next-frame prediction with Conv-LSTM
-   7. Grad-CAM class activation visulization 
-   8. Image Classification via fine-tuning with EfficientNet
-   9. Image classification with Vision Transformer
-   10. Model interpretability with Integrated Gradients
-   11. Knowledge Distillation
-   12. Metric learning for Iamge similarity search
-   13. Point cloud classification with PointNet
-   14. Few-Shot learning with Reptile
-   15. Object Detection with RetInaNet
-   16. Image Super-Resolution using an Efficient Sub-Pixel CNN
-   17. Supervised Contrastive Learning
-   18. Visualizing what convnets learn
-   19. Pneumonia Classification on TPU
+   1. [Image classification from scrtch]()
+   2. [Simple MNIST convnet]()
+   3. [Image segmentation with a U-Net-like architecture]()
+   4. [3D Image Classification from CT Scans]()
+   5. [OCR model for reading Captchas]()
+   6. [Next-frame prediction with Conv-LSTM]()
+   7. [Grad-CAM class activation visulization ]()
+   8. [Image Classification via fine-tuning with EfficientNet]()
+   9. [Image classification with Vision Transformer]()
+   10. [Model interpretability with Integrated Gradients]()
+   11. [Knowledge Distillation]()
+   12. [Metric learning for Iamge similarity search]()
+   13. [Point cloud classification with PointNet]()
+   14. [Few-Shot learning with Reptile]()
+   15. [Object Detection with RetInaNet]()
+   16. [Image Super-Resolution using an Efficient Sub-Pixel CNN]()
+   17. [Supervised Contrastive Learning]()
+   18. [Visualizing what convnets learn]()
+   19. [Pneumonia Classification on TPU]()
 ### 2. Natural language processing
-   1. Text classification from scratch
-   2. Sequence to sequence learning for performing number addition
-   3. Bidirectional LSTM on IMDB
-   4. Character-level recurrent sequence-to-sequence model
-   5. End-to-end Masked Language Modeling with BERT
-   6. Natural language image search with a Dual Encoder
-   7. Using pre-trained word embeddings 
-   8. Semantic Similarity with BERT
-   9. Text classification with Transformer
-   10. Text Extraction with BERT
+   1. [Text classification from scratch]()
+   2. [Sequence to sequence learning for performing number addition]()
+   3. [Bidirectional LSTM on IMDB]()
+   4. [Character-level recurrent sequence-to-sequence model]()
+   5. [End-to-end Masked Language Modeling with BERT]()
+   6. [Natural language image search with a Dual Encoder]()
+   7. [Using pre-trained word embeddings ]()
+   8. [Semantic Similarity with BERT]()
+   9. [Text classification with Transformer]()
+   10. [Text Extraction with BERT]()
 ### 3. Structured Data
-   1. Structured data classification from scratch
-   2. Collaborative Filtering for Movie Recommendations
-   3. Classification with Neural Decision Forests
-   4. Imbalanced classification: credit card fraud detection
-   5. A Transformer-based recommendation system
-   6. Structured data learning with Wide,Deep, and Cross networks
+   1. [Structured data classification from scratch]()
+   2. [Collaborative Filtering for Movie Recommendations]()
+   3. [Classification with Neural Decision Forests]()
+   4. [Imbalanced classification: credit card fraud detection]()
+   5. [A Transformer-based recommendation system]()
+   6. [Structured data learning with Wide,Deep, and Cross networks]()
 ### 4. Timeseries
-   1. Timeseries anomaly detection using an Autoencoder
-   2. Timeseries classification from scratch
-   3. Timeseries forecasting for weather prediction
+   1. [Timeseries anomaly detection using an Autoencoder]()
+   2. [Timeseries classification from scratch]()
+   3. [Timeseries forecasting for weather prediction]()
 ### 5. Audio Data
-   1. Speaker Recognition
+   1. [Speaker Recognition]()
 ### 6. Generative Deep Learning
-   1. Variational AutoEncoder
-   2. GAN overriding Model.train_step
-   3. WGAN-GP overriding Model.train_step
-   4. Neural style transfer
-   5. Deep Dream
-   6. CycleGAN
-   7. Character-level text generation with LSTM
-   8. PixelCNN
-   9. Density estimation using Real NVP
-   10. Text generation with a miniature GPT
+   1. [Variational AutoEncoder]()
+   2. [GAN overriding Model.train_step]()
+   3. [WGAN-GP overriding Model.train_step]()
+   4. [Neural style transfer]()
+   5. [Deep Dream]()
+   6. [CycleGAN]()
+   7. [Character-level text generation with LSTM]()
+   8. [PixelCNN]()
+   9. [Density estimation using Real NVP]()
+   10. [Text generation with a miniature GPT]()
 ###  7. Reinforcement learning
-   1. Actor Critic Method
-   2. Deep Deterministic Policy Gradient (DDPG)
-   3. Deep Q-Learning for Atari Breakout
+   1. [Actor Critic Method]()
+   2. [Deep Deterministic Policy Gradient (DDPG)]()
+   3. [Deep Q-Learning for Atari Breakout]()
 ###  8. Quick Keras recipes
-   1. Simple custom layer example:Antirectifier
-   2. Probabilistic Bayesian Neural Networks
-   3. Keras debugging tips
-   4. Endpoint layers pattern 
-   5. A Quasi-SVM in Keras
-   6. How to train a Keras model on TFRecord files
+   1. [Simple custom layer example:Antirectifier]()
+   2. [Probabilistic Bayesian Neural Networks]()
+   3. [Keras debugging tips]()
+   4. [Endpoint layers pattern]()
+   5. [A Quasi-SVM in Keras]()
+   6. [How to train a Keras model on TFRecord files]()
 ## 6. Why choose Keras?
 ## 7. Community & governance
 ## 8. Contributing to Keras 
