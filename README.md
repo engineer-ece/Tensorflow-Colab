@@ -159,7 +159,7 @@ python
    
 # Keras
 
-## 1. About Keras
+## - [ ] 1. [About Keras]()
 ## 2. Getting Started
 - [ ]   1. [Introduction to Keras for engineers]()
 - [ ]   2. [Introduction to Keras for researchers]()
@@ -331,9 +331,9 @@ python
 - [ ]   4. [Endpoint layers pattern]()
 - [ ]   5. [A Quasi-SVM in Keras]()
 - [ ]   6. [How to train a Keras model on TFRecord files]()
-## 6. Why choose Keras?
-## 7. Community & governance
-## 8. Contributing to Keras 
+## - [ ] 6. [Why choose Keras?]()
+## - [ ] 7. [Community & governance]()
+## - [ ] 8. [Contributing to Keras]()
   
 
 
