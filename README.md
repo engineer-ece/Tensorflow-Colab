@@ -1,6 +1,8 @@
 #### Documented Date = 29-01-2021
 
-# @+@ Tensorflow-Colab @+@
+
+#  @ Tensorflow-Colab 
+
 python
 
 #### Machine learning is a just a Geometry problem.
@@ -13,7 +15,7 @@ python
 
 
 
-# @+@ TensorFlow tutorials @+@
+# @ TensorFlow tutorials @
 
 
 * Start Date : 29-01-2021
@@ -112,7 +114,7 @@ python
   - [ ] [04-04-2021]   2. [Tensorflow agents]()
 
 
-# @+@ Tensorflow HUB @+@
+# @ Tensorflow HUB 
 
 * Start Date : 05-04-2021
 * End Date : 29-04-2021
@@ -156,8 +158,14 @@ python
    - [ ] [29-04-2021] 3. [Text-to-video retrieval]()
    
    
-   
-#  @+@ Keras @+@
+---
+---
+
+#  @ Keras 
+
+* Start date    = 30-04-2021
+* End date      = 30-09-2021
+* Duration date = 154 days i.e (5 months)
 
 ---
 - [ ] [30-04-2021] 1. [About Keras]()
