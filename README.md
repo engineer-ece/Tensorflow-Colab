@@ -179,7 +179,7 @@ python
    10. [Working with recurrent neural networks]()
    11. [Understanding masking & padding]()
    12. [Multi-GPU & distributed training]()
-   13. [Transfer learning & fine-tuning
+   13. [Transfer learning & fine-tuning]()
    14. [Training Keras models with TensorFlow cloud]()
 ## 4. Keras API reference
 ### 1. Model API
